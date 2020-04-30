@@ -4,6 +4,7 @@
   "Name": "Total Quantity",
   "SumFieldTable": "Time Sheet Detail",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Time Sheet No.",

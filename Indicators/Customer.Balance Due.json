@@ -4,6 +4,7 @@
   "Name": "Balance Due",
   "SumFieldTable": "Detailed Cust. Ledg. Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Customer No.",

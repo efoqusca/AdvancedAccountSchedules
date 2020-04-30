@@ -4,6 +4,7 @@
   "Name": "Reserved Qty. (Base)",
   "SumFieldTable": "Reservation Entry",
   "SumFieldName": "Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Source Type",

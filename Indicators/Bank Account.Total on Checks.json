@@ -4,6 +4,7 @@
   "Name": "Total on Checks",
   "SumFieldTable": "Check Ledger Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Bank Account No.",

@@ -4,6 +4,7 @@
   "Name": "Qty. on Order (Job)",
   "SumFieldTable": "Job Planning Line",
   "SumFieldName": "Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Status",

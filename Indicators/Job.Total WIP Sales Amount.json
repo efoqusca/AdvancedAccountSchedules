@@ -4,6 +4,7 @@
   "Name": "Total WIP Sales Amount",
   "SumFieldTable": "Job WIP Entry",
   "SumFieldName": "WIP Entry Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

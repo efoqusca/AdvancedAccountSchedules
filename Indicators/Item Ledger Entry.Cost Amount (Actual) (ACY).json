@@ -4,6 +4,7 @@
   "Name": "Cost Amount (Actual) (ACY)",
   "SumFieldTable": "Value Entry",
   "SumFieldName": "Cost Amount (Actual) (ACY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item Ledger Entry No.",

@@ -4,6 +4,7 @@
   "Name": "Duration (Min.)",
   "SumFieldTable": "Interaction Log Entry",
   "SumFieldName": "Duration (Min.)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Interaction Group Code",

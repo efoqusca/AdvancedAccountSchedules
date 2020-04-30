@@ -4,6 +4,7 @@
   "Name": "Recog. Costs G/L Amount",
   "SumFieldTable": "Job WIP G/L Entry",
   "SumFieldName": "WIP Entry Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

@@ -4,6 +4,7 @@
   "Name": "VAT Amount",
   "SumFieldTable": "Reminder Line",
   "SumFieldName": "VAT Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Reminder No.",

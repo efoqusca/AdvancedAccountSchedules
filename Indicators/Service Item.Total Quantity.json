@@ -4,6 +4,7 @@
   "Name": "Total Quantity",
   "SumFieldTable": "Service Ledger Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Entry Type",

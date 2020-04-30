@@ -4,6 +4,7 @@
   "Name": "Credit Amount",
   "SumFieldTable": "Detailed Employee Ledger Entry",
   "SumFieldName": "Credit Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Ledger Entry Amount",

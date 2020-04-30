@@ -4,6 +4,7 @@
   "Name": "Add.-Currency Debit Amount",
   "SumFieldTable": "Analysis View Entry",
   "SumFieldName": "Add.-Curr. Debit Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis View Code",

@@ -4,6 +4,7 @@
   "Name": "Analysis - Cost Amt. (Actual)",
   "SumFieldTable": "Item Analysis View Entry",
   "SumFieldName": "Cost Amount (Actual)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis Area",

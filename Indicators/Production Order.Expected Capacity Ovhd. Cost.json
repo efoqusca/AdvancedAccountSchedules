@@ -4,6 +4,7 @@
   "Name": "Expected Capacity Ovhd. Cost",
   "SumFieldTable": "Prod. Order Routing Line",
   "SumFieldName": "Expected Capacity Ovhd. Cost",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Status",

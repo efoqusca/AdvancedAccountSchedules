@@ -4,6 +4,7 @@
   "Name": "Balance at Date",
   "SumFieldTable": "Cost Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Cost Type No.",

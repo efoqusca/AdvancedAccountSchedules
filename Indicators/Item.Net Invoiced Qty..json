@@ -4,6 +4,7 @@
   "Name": "Net Invoiced Qty.",
   "SumFieldTable": "Item Ledger Entry",
   "SumFieldName": "Invoiced Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

@@ -4,6 +4,7 @@
   "Name": "Amount Including VAT",
   "SumFieldTable": "Sales Line",
   "SumFieldName": "Amount Including VAT",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

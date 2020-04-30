@@ -4,6 +4,7 @@
   "Name": "Interest Amount",
   "SumFieldTable": "Finance Charge Memo Line",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Finance Charge Memo No.",

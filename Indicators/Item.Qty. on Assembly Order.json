@@ -4,6 +4,7 @@
   "Name": "Qty. on Assembly Order",
   "SumFieldTable": "Assembly Header",
   "SumFieldName": "Remaining Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

@@ -4,6 +4,7 @@
   "Name": "Debit Amount",
   "SumFieldTable": "Detailed Cust. Ledg. Entry",
   "SumFieldName": "Debit Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Ledger Entry Amount",

@@ -4,6 +4,7 @@
   "Name": "Vendor Amt. Rcd. Not Invoiced",
   "SumFieldTable": "Purchase Line",
   "SumFieldName": "Amt. Rcd. Not Invoiced",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

@@ -4,6 +4,7 @@
   "Name": "Scheduled Res. Gr. Qty.",
   "SumFieldTable": "Job Planning Line",
   "SumFieldName": "Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

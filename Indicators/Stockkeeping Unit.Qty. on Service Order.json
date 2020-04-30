@@ -4,6 +4,7 @@
   "Name": "Qty. on Service Order",
   "SumFieldTable": "Service Line",
   "SumFieldName": "Outstanding Qty. (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

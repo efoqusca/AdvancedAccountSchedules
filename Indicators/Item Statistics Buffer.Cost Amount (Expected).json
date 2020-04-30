@@ -4,6 +4,7 @@
   "Name": "Cost Amount (Expected)",
   "SumFieldTable": "Value Entry",
   "SumFieldName": "Cost Amount (Expected)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

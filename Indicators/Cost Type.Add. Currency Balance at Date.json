@@ -4,6 +4,7 @@
   "Name": "Add. Currency Balance at Date",
   "SumFieldTable": "Cost Entry",
   "SumFieldName": "Additional-Currency Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Cost Type No.",

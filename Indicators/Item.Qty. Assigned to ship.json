@@ -4,6 +4,7 @@
   "Name": "Qty. Assigned to ship",
   "SumFieldTable": "Warehouse Shipment Line",
   "SumFieldName": "Qty. Outstanding (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

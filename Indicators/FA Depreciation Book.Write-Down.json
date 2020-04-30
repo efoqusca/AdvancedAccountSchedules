@@ -4,6 +4,7 @@
   "Name": "Write-Down",
   "SumFieldTable": "FA Ledger Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "FA No.",

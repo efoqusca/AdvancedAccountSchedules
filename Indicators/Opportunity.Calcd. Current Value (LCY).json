@@ -4,6 +4,7 @@
   "Name": "Calcd. Current Value (LCY)",
   "SumFieldTable": "Opportunity Entry",
   "SumFieldName": "Calcd. Current Value (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Opportunity No.",

@@ -4,6 +4,7 @@
   "Name": "Cost Amount (Actual)",
   "SumFieldTable": "Value Entry",
   "SumFieldName": "Cost Amount (Actual)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

@@ -4,6 +4,7 @@
   "Name": "Planning Worksheet (Qty.)",
   "SumFieldTable": "Requisition Line",
   "SumFieldName": "Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Planning Line Origin",

@@ -4,6 +4,7 @@
   "Name": "Amount",
   "SumFieldTable": "Cash Flow Forecast Entry",
   "SumFieldName": "Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Cash Flow Account No.",

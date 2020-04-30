@@ -4,6 +4,7 @@
   "Name": "Inventory",
   "SumFieldTable": "Item Ledger Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

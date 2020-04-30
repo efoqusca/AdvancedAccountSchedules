@@ -4,6 +4,7 @@
   "Name": "Cost (LCY)",
   "SumFieldTable": "Segment Line",
   "SumFieldName": "Cost (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Segment No.",

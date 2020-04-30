@@ -4,6 +4,7 @@
   "Name": "Cr. Memo Amounts (LCY)",
   "SumFieldTable": "Detailed Vendor Ledg. Entry",
   "SumFieldName": "Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Initial Document Type",

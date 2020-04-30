@@ -4,6 +4,7 @@
   "Name": "Usage (Amount)",
   "SumFieldTable": "Service Ledger Entry",
   "SumFieldName": "Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Entry Type",

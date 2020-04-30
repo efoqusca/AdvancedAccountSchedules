@@ -4,6 +4,7 @@
   "Name": "Contract Discount Amount",
   "SumFieldTable": "Service Ledger Entry",
   "SumFieldName": "Contract Disc. Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Service Contract No.",

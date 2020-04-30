@@ -4,6 +4,7 @@
   "Name": "Original Amount",
   "SumFieldTable": "Detailed Cust. Ledg. Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Cust. Ledger Entry No.",

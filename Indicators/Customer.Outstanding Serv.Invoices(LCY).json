@@ -4,6 +4,7 @@
   "Name": "Outstanding Serv.Invoices(LCY)",
   "SumFieldTable": "Service Line",
   "SumFieldName": "Outstanding Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

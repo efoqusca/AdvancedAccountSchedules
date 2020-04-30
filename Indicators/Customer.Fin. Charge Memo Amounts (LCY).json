@@ -4,6 +4,7 @@
   "Name": "Fin. Charge Memo Amounts (LCY)",
   "SumFieldTable": "Detailed Cust. Ledg. Entry",
   "SumFieldName": "Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Initial Document Type",

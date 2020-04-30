@@ -4,6 +4,7 @@
   "Name": "Schedule Line Total",
   "SumFieldTable": "Deferral Line",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Deferral Doc. Type",

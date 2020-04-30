@@ -4,6 +4,7 @@
   "Name": "Scheduled Need (Qty.)",
   "SumFieldTable": "Prod. Order Component",
   "SumFieldName": "Remaining Qty. (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Status",

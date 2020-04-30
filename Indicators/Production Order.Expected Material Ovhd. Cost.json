@@ -4,6 +4,7 @@
   "Name": "Expected Material Ovhd. Cost",
   "SumFieldTable": "Prod. Order Component",
   "SumFieldName": "Overhead Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Status",

@@ -4,6 +4,7 @@
   "Name": "Expired Inventory",
   "SumFieldTable": "Item Ledger Entry",
   "SumFieldName": "Remaining Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

@@ -4,6 +4,7 @@
   "Name": "Add. Fee per Line",
   "SumFieldTable": "Issued Reminder Line",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Reminder No.",

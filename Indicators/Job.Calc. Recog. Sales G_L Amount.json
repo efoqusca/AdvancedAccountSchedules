@@ -4,6 +4,7 @@
   "Name": "Calc. Recog. Sales G/L Amount",
   "SumFieldTable": "Job Task",
   "SumFieldName": "Recognized Sales G/L Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

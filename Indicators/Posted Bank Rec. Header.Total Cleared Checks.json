@@ -4,6 +4,7 @@
   "Name": "Total Cleared Checks",
   "SumFieldTable": "Posted Bank Rec. Line",
   "SumFieldName": "Cleared Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Bank Account No.",

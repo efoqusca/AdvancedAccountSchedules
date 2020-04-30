@@ -4,6 +4,7 @@
   "Name": "Cust. Balances Due",
   "SumFieldTable": "Detailed Cust. Ledg. Entry",
   "SumFieldName": "Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Initial Entry Global Dim. 1",

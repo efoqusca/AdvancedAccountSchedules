@@ -4,6 +4,7 @@
   "Name": "Cost Amount (Non-Invtbl.)",
   "SumFieldTable": "Value Entry",
   "SumFieldName": "Cost Amount (Non-Invtbl.)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item Ledger Entry No.",

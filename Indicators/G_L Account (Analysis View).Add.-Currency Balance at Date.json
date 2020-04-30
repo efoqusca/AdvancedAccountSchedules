@@ -4,6 +4,7 @@
   "Name": "Add.-Currency Balance at Date",
   "SumFieldTable": "Analysis View Entry",
   "SumFieldName": "Add.-Curr. Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis View Code",

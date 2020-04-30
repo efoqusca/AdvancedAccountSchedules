@@ -4,6 +4,7 @@
   "Name": "Usage (Total Cost)",
   "SumFieldTable": "Job Ledger Entry",
   "SumFieldName": "Total Cost (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

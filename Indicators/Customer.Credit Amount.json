@@ -4,6 +4,7 @@
   "Name": "Credit Amount",
   "SumFieldTable": "Detailed Cust. Ledg. Entry",
   "SumFieldName": "Credit Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Customer No.",

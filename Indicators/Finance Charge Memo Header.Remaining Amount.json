@@ -4,6 +4,7 @@
   "Name": "Remaining Amount",
   "SumFieldTable": "Finance Charge Memo Line",
   "SumFieldName": "Remaining Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Finance Charge Memo No.",

@@ -4,6 +4,7 @@
   "Name": "Total Outstd Bank Transactions",
   "SumFieldTable": "Bank Account Ledger Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Bank Account No.",

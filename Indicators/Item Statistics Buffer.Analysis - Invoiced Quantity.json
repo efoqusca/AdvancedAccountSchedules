@@ -4,6 +4,7 @@
   "Name": "Analysis - Invoiced Quantity",
   "SumFieldTable": "Item Analysis View Entry",
   "SumFieldName": "Invoiced Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis Area",

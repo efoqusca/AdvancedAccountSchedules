@@ -4,6 +4,7 @@
   "Name": "Analysis - Budgeted Cost Amt.",
   "SumFieldTable": "Item Analysis View Budg. Entry",
   "SumFieldName": "Cost Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis Area",

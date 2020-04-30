@@ -4,6 +4,7 @@
   "Name": "Invoiced YTD",
   "SumFieldTable": "Sales Invoice Entity Aggregate",
   "SumFieldName": "Amount Including VAT",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Date",

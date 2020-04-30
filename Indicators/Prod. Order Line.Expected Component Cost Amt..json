@@ -4,6 +4,7 @@
   "Name": "Expected Component Cost Amt.",
   "SumFieldTable": "Prod. Order Component",
   "SumFieldName": "Cost Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Status",

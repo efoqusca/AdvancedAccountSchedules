@@ -4,6 +4,7 @@
   "Name": "Invoiced Amount (LCY)",
   "SumFieldTable": "Job Planning Line Invoice",
   "SumFieldName": "Invoiced Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

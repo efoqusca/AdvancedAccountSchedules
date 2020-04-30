@@ -4,6 +4,7 @@
   "Name": "Remaining Amount",
   "SumFieldTable": "Detailed Vendor Ledg. Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Vendor Ledger Entry No.",

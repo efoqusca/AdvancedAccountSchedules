@@ -4,6 +4,7 @@
   "Name": "Allocated Custom 1 %",
   "SumFieldTable": "FA Allocation",
   "SumFieldName": "Allocation %",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Code",

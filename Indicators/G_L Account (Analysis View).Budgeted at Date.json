@@ -4,6 +4,7 @@
   "Name": "Budgeted at Date",
   "SumFieldTable": "Analysis View Budget Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis View Code",

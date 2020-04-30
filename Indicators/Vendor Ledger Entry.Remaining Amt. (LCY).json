@@ -4,6 +4,7 @@
   "Name": "Remaining Amt. (LCY)",
   "SumFieldTable": "Detailed Vendor Ledg. Entry",
   "SumFieldName": "Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Vendor Ledger Entry No.",

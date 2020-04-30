@@ -4,6 +4,7 @@
   "Name": "Credit Amount",
   "SumFieldTable": "Detailed Vendor Ledg. Entry",
   "SumFieldName": "Credit Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Vendor No.",

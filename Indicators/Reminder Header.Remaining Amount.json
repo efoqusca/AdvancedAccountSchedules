@@ -4,6 +4,7 @@
   "Name": "Remaining Amount",
   "SumFieldTable": "Reminder Line",
   "SumFieldName": "Remaining Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Reminder No.",

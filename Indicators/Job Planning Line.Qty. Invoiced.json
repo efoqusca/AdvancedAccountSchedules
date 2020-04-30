@@ -4,6 +4,7 @@
   "Name": "Qty. Invoiced",
   "SumFieldTable": "Job Planning Line Invoice",
   "SumFieldName": "Quantity Transferred",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

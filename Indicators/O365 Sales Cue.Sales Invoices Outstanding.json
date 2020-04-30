@@ -4,5 +4,6 @@
   "Name": "Sales Invoices Outstanding",
   "SumFieldTable": "Detailed Cust. Ledg. Entry",
   "SumFieldName": "Amount (LCY)",
+  "Type": "SumField",
   "Filters": []
 }

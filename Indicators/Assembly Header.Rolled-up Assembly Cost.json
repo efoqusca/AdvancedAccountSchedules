@@ -4,6 +4,7 @@
   "Name": "Rolled-up Assembly Cost",
   "SumFieldTable": "Assembly Line",
   "SumFieldName": "Cost Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

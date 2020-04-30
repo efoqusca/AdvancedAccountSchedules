@@ -4,6 +4,7 @@
   "Name": "Allocated Sales Price %",
   "SumFieldTable": "FA Allocation",
   "SumFieldName": "Allocation %",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Code",

@@ -4,6 +4,7 @@
   "Name": "Cost (LCY)",
   "SumFieldTable": "Interaction Log Entry",
   "SumFieldName": "Cost (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Interaction Group Code",

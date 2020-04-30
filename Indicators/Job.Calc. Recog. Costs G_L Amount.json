@@ -4,6 +4,7 @@
   "Name": "Calc. Recog. Costs G/L Amount",
   "SumFieldTable": "Job Task",
   "SumFieldName": "Recognized Costs G/L Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

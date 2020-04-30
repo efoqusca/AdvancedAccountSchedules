@@ -4,6 +4,7 @@
   "Name": "Budget Debit Amount",
   "SumFieldTable": "Cost Budget Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Cost Type No.",

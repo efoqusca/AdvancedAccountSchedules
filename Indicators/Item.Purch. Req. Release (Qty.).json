@@ -4,6 +4,7 @@
   "Name": "Purch. Req. Release (Qty.)",
   "SumFieldTable": "Requisition Line",
   "SumFieldName": "Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Type",

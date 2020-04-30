@@ -4,6 +4,7 @@
   "Name": "Qty. Exp. Item Tracking (Base)",
   "SumFieldTable": "Exp. Phys. Invt. Tracking",
   "SumFieldName": "Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Order No",

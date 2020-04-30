@@ -4,6 +4,7 @@
   "Name": "Negative Bal. Adjustments",
   "SumFieldTable": "Bank Rec. Line",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Bank Account No.",

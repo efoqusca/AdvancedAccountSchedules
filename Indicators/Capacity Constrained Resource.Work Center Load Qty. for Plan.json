@@ -4,6 +4,7 @@
   "Name": "Work Center Load Qty. for Plan",
   "SumFieldTable": "Prod. Order Capacity Need",
   "SumFieldName": "Allocated Time",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Work Center No.",

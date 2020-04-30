@@ -4,6 +4,7 @@
   "Name": "Debit Amount",
   "SumFieldTable": "G/L Entry",
   "SumFieldName": "Debit Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "G/L Account No.",

@@ -4,6 +4,7 @@
   "Name": "Serv Shipped Not Invoiced(LCY)",
   "SumFieldTable": "Service Line",
   "SumFieldName": "Shipped Not Invoiced (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

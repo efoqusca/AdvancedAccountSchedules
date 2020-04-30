@@ -4,6 +4,7 @@
   "Name": "Overhead Cost (ACY)",
   "SumFieldTable": "Value Entry",
   "SumFieldName": "Cost Amount (Actual) (ACY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Capacity Ledger Entry No.",

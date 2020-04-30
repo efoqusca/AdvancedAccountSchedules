@@ -4,6 +4,7 @@
   "Name": "Analysis - Quantity",
   "SumFieldTable": "Item Analysis View Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis Area",

@@ -4,6 +4,7 @@
   "Name": "Capacity",
   "SumFieldTable": "Res. Capacity Entry",
   "SumFieldName": "Capacity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Resource Group No.",

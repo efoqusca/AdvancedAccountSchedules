@@ -4,6 +4,7 @@
   "Name": "Qty. Assigned",
   "SumFieldTable": "Item Charge Assignment (Purch)",
   "SumFieldName": "Qty. Assigned",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

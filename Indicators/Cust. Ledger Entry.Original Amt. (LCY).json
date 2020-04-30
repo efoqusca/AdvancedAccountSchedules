@@ -4,6 +4,7 @@
   "Name": "Original Amt. (LCY)",
   "SumFieldTable": "Detailed Cust. Ledg. Entry",
   "SumFieldName": "Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Cust. Ledger Entry No.",

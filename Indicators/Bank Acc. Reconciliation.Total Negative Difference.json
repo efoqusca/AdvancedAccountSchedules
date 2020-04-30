@@ -4,6 +4,7 @@
   "Name": "Total Negative Difference",
   "SumFieldTable": "Bank Acc. Reconciliation Line",
   "SumFieldName": "Applied Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Account Type",

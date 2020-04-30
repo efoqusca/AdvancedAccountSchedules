@@ -4,6 +4,7 @@
   "Name": "Original Amount",
   "SumFieldTable": "Detailed Employee Ledger Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Employee Ledger Entry No.",

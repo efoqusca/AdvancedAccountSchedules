@@ -4,6 +4,7 @@
   "Name": "Schedule (Total Price)",
   "SumFieldTable": "Job Planning Line",
   "SumFieldName": "Line Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

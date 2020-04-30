@@ -4,6 +4,7 @@
   "Name": "Trans. Ord. Receipt (Qty.)",
   "SumFieldTable": "Transfer Line",
   "SumFieldName": "Outstanding Qty. (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Derived From Line No.",

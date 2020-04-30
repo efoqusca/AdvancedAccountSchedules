@@ -4,6 +4,7 @@
   "Name": "Actual Time Used",
   "SumFieldTable": "Capacity Ledger Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Order Type",

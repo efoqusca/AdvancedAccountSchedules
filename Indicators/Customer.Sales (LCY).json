@@ -4,6 +4,7 @@
   "Name": "Sales (LCY)",
   "SumFieldTable": "Cust. Ledger Entry",
   "SumFieldName": "Sales (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Customer No.",

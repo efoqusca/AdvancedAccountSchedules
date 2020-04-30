@@ -4,6 +4,7 @@
   "Name": "Put-away Qty. (Base)",
   "SumFieldTable": "Warehouse Activity Line",
   "SumFieldName": "Qty. Outstanding (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Activity Type",

@@ -4,6 +4,7 @@
   "Name": "Amount",
   "SumFieldTable": "Purch. Cr. Memo Line",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document No.",

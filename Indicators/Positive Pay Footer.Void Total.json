@@ -4,6 +4,7 @@
   "Name": "Void Total",
   "SumFieldTable": "Positive Pay Detail",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Void Check Indicator",

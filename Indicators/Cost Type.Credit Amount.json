@@ -4,6 +4,7 @@
   "Name": "Credit Amount",
   "SumFieldTable": "Cost Entry",
   "SumFieldName": "Credit Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Cost Type No.",

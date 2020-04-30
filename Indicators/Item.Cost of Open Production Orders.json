@@ -4,6 +4,7 @@
   "Name": "Cost of Open Production Orders",
   "SumFieldTable": "Prod. Order Line",
   "SumFieldName": "Cost Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Status",

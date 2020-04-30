@@ -4,6 +4,7 @@
   "Name": "Amount",
   "SumFieldTable": "Purchase Line Archive",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

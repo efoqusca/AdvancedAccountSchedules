@@ -4,6 +4,7 @@
   "Name": "Reserved Qty. on Purch. Orders",
   "SumFieldTable": "Reservation Entry",
   "SumFieldName": "Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

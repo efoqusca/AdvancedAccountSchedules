@@ -4,6 +4,7 @@
   "Name": "Allocated Amt. (LCY)",
   "SumFieldTable": "Gen. Jnl. Allocation",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Journal Template Name",

@@ -4,6 +4,7 @@
   "Name": "Amt. Ship. Not Inv. (LCY) Base",
   "SumFieldTable": "Sales Line",
   "SumFieldName": "Shipped Not Inv. (LCY) No VAT",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

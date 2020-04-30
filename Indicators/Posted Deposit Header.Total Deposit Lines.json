@@ -4,6 +4,7 @@
   "Name": "Total Deposit Lines",
   "SumFieldTable": "Posted Deposit Line",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Deposit No.",

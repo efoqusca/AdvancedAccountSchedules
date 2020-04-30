@@ -4,6 +4,7 @@
   "Name": "VAT Amount",
   "SumFieldTable": "Issued Fin. Charge Memo Line",
   "SumFieldName": "VAT Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Finance Charge Memo No.",

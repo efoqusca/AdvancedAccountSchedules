@@ -4,6 +4,7 @@
   "Name": "Capacity (Total)",
   "SumFieldTable": "Calendar Entry",
   "SumFieldName": "Capacity (Total)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Capacity Type",

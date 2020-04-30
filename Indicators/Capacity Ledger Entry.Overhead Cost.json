@@ -4,6 +4,7 @@
   "Name": "Overhead Cost",
   "SumFieldTable": "Value Entry",
   "SumFieldName": "Cost Amount (Actual)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Capacity Ledger Entry No.",

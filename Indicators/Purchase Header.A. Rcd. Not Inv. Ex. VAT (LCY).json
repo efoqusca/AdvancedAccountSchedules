@@ -4,6 +4,7 @@
   "Name": "A. Rcd. Not Inv. Ex. VAT (LCY)",
   "SumFieldTable": "Purchase Line",
   "SumFieldName": "A. Rcd. Not Inv. Ex. VAT (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

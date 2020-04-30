@@ -4,6 +4,7 @@
   "Name": "Qty. on Sales Return",
   "SumFieldTable": "Sales Line",
   "SumFieldName": "Outstanding Qty. (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

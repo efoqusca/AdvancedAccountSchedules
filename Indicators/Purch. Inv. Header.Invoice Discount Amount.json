@@ -4,6 +4,7 @@
   "Name": "Invoice Discount Amount",
   "SumFieldTable": "Purch. Inv. Line",
   "SumFieldName": "Inv. Discount Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document No.",

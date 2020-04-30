@@ -4,6 +4,7 @@
   "Name": "Invoiced Quantity",
   "SumFieldTable": "Value Entry",
   "SumFieldName": "Invoiced Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

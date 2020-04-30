@@ -4,6 +4,7 @@
   "Name": "Qty. Cross-Docked (Base)",
   "SumFieldTable": "Whse. Cross-Dock Opportunity",
   "SumFieldName": "Qty. to Cross-Dock (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Source Template Name",

@@ -4,6 +4,7 @@
   "Name": "Total Balanced Adjustments",
   "SumFieldTable": "Posted Bank Rec. Line",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Bank Account No.",

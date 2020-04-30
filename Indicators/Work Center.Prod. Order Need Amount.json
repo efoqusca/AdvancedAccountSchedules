@@ -4,6 +4,7 @@
   "Name": "Prod. Order Need Amount",
   "SumFieldTable": "Prod. Order Routing Line",
   "SumFieldName": "Expected Operation Cost Amt.",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Work Center No.",

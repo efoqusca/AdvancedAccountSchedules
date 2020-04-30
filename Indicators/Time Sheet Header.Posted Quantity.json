@@ -4,6 +4,7 @@
   "Name": "Posted Quantity",
   "SumFieldTable": "Time Sheet Posting Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Time Sheet No.",

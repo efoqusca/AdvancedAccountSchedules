@@ -4,6 +4,7 @@
   "Name": "Reserved Quantity Shipped",
   "SumFieldTable": "Reservation Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Source ID",

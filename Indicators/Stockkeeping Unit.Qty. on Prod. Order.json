@@ -4,6 +4,7 @@
   "Name": "Qty. on Prod. Order",
   "SumFieldTable": "Prod. Order Line",
   "SumFieldName": "Remaining Qty. (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Status",

@@ -4,6 +4,7 @@
   "Name": "Vendor Outstanding Orders",
   "SumFieldTable": "Purchase Line",
   "SumFieldName": "Outstanding Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

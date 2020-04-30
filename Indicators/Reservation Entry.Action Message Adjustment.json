@@ -4,6 +4,7 @@
   "Name": "Action Message Adjustment",
   "SumFieldTable": "Action Message Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Reservation Entry",

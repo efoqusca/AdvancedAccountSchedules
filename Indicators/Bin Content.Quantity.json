@@ -4,6 +4,7 @@
   "Name": "Quantity",
   "SumFieldTable": "Warehouse Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Location Code",

@@ -4,6 +4,7 @@
   "Name": "Analysis - Budgeted Sales Amt.",
   "SumFieldTable": "Item Analysis View Budg. Entry",
   "SumFieldName": "Sales Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis Area",

@@ -4,6 +4,7 @@
   "Name": "Net Change",
   "SumFieldTable": "Item Ledger Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

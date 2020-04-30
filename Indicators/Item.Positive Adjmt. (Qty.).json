@@ -4,6 +4,7 @@
   "Name": "Positive Adjmt. (Qty.)",
   "SumFieldTable": "Item Ledger Entry",
   "SumFieldName": "Invoiced Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Entry Type",

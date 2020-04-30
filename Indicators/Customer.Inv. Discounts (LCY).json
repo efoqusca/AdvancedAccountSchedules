@@ -4,6 +4,7 @@
   "Name": "Inv. Discounts (LCY)",
   "SumFieldTable": "Cust. Ledger Entry",
   "SumFieldName": "Inv. Discount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Customer No.",

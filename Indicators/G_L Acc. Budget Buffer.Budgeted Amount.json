@@ -4,6 +4,7 @@
   "Name": "Budgeted Amount",
   "SumFieldTable": "G/L Budget Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Budget Name",

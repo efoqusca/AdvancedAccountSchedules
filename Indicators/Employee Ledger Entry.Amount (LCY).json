@@ -4,6 +4,7 @@
   "Name": "Amount (LCY)",
   "SumFieldTable": "Detailed Employee Ledger Entry",
   "SumFieldName": "Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Ledger Entry Amount",

@@ -4,6 +4,7 @@
   "Name": "Amt. Rcd. Not Invoiced (LCY)",
   "SumFieldTable": "Purchase Line",
   "SumFieldName": "Amt. Rcd. Not Invoiced (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Document Type",

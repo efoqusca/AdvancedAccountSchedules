@@ -4,6 +4,7 @@
   "Name": "Res. Qty. on Inbound Transfer",
   "SumFieldTable": "Reservation Entry",
   "SumFieldName": "Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

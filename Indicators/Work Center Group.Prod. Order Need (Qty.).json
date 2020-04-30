@@ -4,6 +4,7 @@
   "Name": "Prod. Order Need (Qty.)",
   "SumFieldTable": "Prod. Order Capacity Need",
   "SumFieldName": "Allocated Time",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Status",

@@ -4,6 +4,7 @@
   "Name": "Remaining (Total Price)",
   "SumFieldTable": "Job Planning Line",
   "SumFieldName": "Remaining Line Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Job No.",

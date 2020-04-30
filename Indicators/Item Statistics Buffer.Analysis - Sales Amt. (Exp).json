@@ -4,6 +4,7 @@
   "Name": "Analysis - Sales Amt. (Exp)",
   "SumFieldTable": "Item Analysis View Entry",
   "SumFieldName": "Sales Amount (Expected)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis Area",

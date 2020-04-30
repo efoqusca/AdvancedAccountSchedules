@@ -4,6 +4,7 @@
   "Name": "Neg. Adjmt. Qty.",
   "SumFieldTable": "Warehouse Journal Line",
   "SumFieldName": "Qty. (Absolute)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Location Code",

@@ -4,6 +4,7 @@
   "Name": "Usage (Cost)",
   "SumFieldTable": "Service Ledger Entry",
   "SumFieldName": "Cost Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Entry Type",

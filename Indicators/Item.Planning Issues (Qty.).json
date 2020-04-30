@@ -4,6 +4,7 @@
   "Name": "Planning Issues (Qty.)",
   "SumFieldTable": "Planning Component",
   "SumFieldName": "Expected Quantity (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Item No.",

@@ -4,6 +4,7 @@
   "Name": "Expected Operation Cost Amt.",
   "SumFieldTable": "Prod. Order Routing Line",
   "SumFieldName": "Expected Operation Cost Amt.",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Status",

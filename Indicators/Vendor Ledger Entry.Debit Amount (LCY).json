@@ -4,6 +4,7 @@
   "Name": "Debit Amount (LCY)",
   "SumFieldTable": "Detailed Vendor Ledg. Entry",
   "SumFieldName": "Debit Amount (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Ledger Entry Amount",

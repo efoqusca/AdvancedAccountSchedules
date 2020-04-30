@@ -4,6 +4,7 @@
   "Name": "Analysis - Budgeted Quantity",
   "SumFieldTable": "Item Analysis View Budg. Entry",
   "SumFieldName": "Quantity",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis Area",

@@ -4,6 +4,7 @@
   "Name": "Calcd. Annual Amount",
   "SumFieldTable": "Service Contract Line",
   "SumFieldName": "Line Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Contract Type",

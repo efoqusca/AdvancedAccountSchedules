@@ -4,6 +4,7 @@
   "Name": "Contract Gain/Loss Amount",
   "SumFieldTable": "Contract Gain/Loss Entry",
   "SumFieldName": "Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Reason Code",

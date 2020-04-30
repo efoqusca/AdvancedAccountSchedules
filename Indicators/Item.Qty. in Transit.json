@@ -4,6 +4,7 @@
   "Name": "Qty. in Transit",
   "SumFieldTable": "Transfer Line",
   "SumFieldName": "Qty. in Transit (Base)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Derived From Line No.",

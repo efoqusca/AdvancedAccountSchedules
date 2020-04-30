@@ -4,6 +4,7 @@
   "Name": "Usage (Price)",
   "SumFieldTable": "Res. Ledger Entry",
   "SumFieldName": "Total Price",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Entry Type",

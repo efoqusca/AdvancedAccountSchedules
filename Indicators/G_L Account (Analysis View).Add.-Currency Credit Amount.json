@@ -4,6 +4,7 @@
   "Name": "Add.-Currency Credit Amount",
   "SumFieldTable": "Analysis View Entry",
   "SumFieldName": "Add.-Curr. Credit Amount",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Analysis View Code",

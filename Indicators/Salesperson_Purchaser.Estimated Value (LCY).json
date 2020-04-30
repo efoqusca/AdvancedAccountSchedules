@@ -4,6 +4,7 @@
   "Name": "Estimated Value (LCY)",
   "SumFieldTable": "Opportunity Entry",
   "SumFieldName": "Estimated Value (LCY)",
+  "Type": "SumField",
   "Filters": [
     {
       "Field": "Salesperson Code",
