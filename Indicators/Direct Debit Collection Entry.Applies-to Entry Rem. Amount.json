@@ -1,0 +1,13 @@
+{
+  "TableNo": "1208",
+  "TableName": "Direct Debit Collection Entry",
+  "Name": "Applies-to Entry Rem. Amount",
+  "SumFieldTable": "Detailed Cust. Ledg. Entry",
+  "SumFieldName": "Amount",
+  "Filters": [
+    {
+      "Field": "Cust. Ledger Entry No.",
+      "Type": "Static"
+    }
+  ]
+}

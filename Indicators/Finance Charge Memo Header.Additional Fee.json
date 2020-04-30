@@ -1,0 +1,18 @@
+{
+  "TableNo": "302",
+  "TableName": "Finance Charge Memo Header",
+  "Name": "Additional Fee",
+  "SumFieldTable": "Finance Charge Memo Line",
+  "SumFieldName": "Amount",
+  "Filters": [
+    {
+      "Field": "Finance Charge Memo No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Type",
+      "Type": "Static",
+      "Value": "\"G/L Account\""
+    }
+  ]
+}

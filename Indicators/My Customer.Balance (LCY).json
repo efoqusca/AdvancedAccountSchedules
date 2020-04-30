@@ -1,0 +1,13 @@
+{
+  "TableNo": "9150",
+  "TableName": "My Customer",
+  "Name": "Balance (LCY)",
+  "SumFieldTable": "Detailed Cust. Ledg. Entry",
+  "SumFieldName": "Amount (LCY)",
+  "Filters": [
+    {
+      "Field": "Customer No.",
+      "Type": "Static"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TableNo": "5714",
+  "TableName": "Responsibility Center",
+  "Name": "Contract Gain/Loss Amount",
+  "SumFieldTable": "Contract Gain/Loss Entry",
+  "SumFieldName": "Amount",
+  "Filters": [
+    {
+      "Field": "Responsibility Center",
+      "Type": "Static"
+    },
+    {
+      "Field": "Change Date",
+      "Type": "Column Period"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "TableNo": "122",
+  "TableName": "Purch. Inv. Header",
+  "Name": "Invoice Discount Amount",
+  "SumFieldTable": "Purch. Inv. Line",
+  "SumFieldName": "Inv. Discount Amount",
+  "Filters": [
+    {
+      "Field": "Document No.",
+      "Type": "Static"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TableNo": "231",
+  "TableName": "Reason Code",
+  "Name": "Contract Gain/Loss Amount",
+  "SumFieldTable": "Contract Gain/Loss Entry",
+  "SumFieldName": "Amount",
+  "Filters": [
+    {
+      "Field": "Reason Code",
+      "Type": "Static"
+    },
+    {
+      "Field": "Change Date",
+      "Type": "Column Period"
+    }
+  ]
+}

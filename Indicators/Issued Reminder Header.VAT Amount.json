@@ -1,0 +1,18 @@
+{
+  "TableNo": "297",
+  "TableName": "Issued Reminder Header",
+  "Name": "VAT Amount",
+  "SumFieldTable": "Issued Reminder Line",
+  "SumFieldName": "VAT Amount",
+  "Filters": [
+    {
+      "Field": "Reminder No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Detailed Interest Rates Entry",
+      "Type": "Static",
+      "Value": "false"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TableNo": "955",
+  "TableName": "Time Sheet Line Archive",
+  "Name": "Total Quantity",
+  "SumFieldTable": "Time Sheet Detail Archive",
+  "SumFieldName": "Quantity",
+  "Filters": [
+    {
+      "Field": "Time Sheet No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Time Sheet Line No.",
+      "Type": "Static"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TableNo": "5405",
+  "TableName": "Production Order",
+  "Name": "Expected Operation Cost Amt.",
+  "SumFieldTable": "Prod. Order Routing Line",
+  "SumFieldName": "Expected Operation Cost Amt.",
+  "Filters": [
+    {
+      "Field": "Status",
+      "Type": "Static"
+    },
+    {
+      "Field": "Prod. Order No.",
+      "Type": "Static"
+    }
+  ]
+}

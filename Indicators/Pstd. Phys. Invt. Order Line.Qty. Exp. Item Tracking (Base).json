@@ -1,0 +1,17 @@
+{
+  "TableNo": "5880",
+  "TableName": "Pstd. Phys. Invt. Order Line",
+  "Name": "Qty. Exp. Item Tracking (Base)",
+  "SumFieldTable": "Pstd. Exp. Phys. Invt. Track",
+  "SumFieldName": "Quantity (Base)",
+  "Filters": [
+    {
+      "Field": "Order No",
+      "Type": "Static"
+    },
+    {
+      "Field": "Order Line No.",
+      "Type": "Static"
+    }
+  ]
+}

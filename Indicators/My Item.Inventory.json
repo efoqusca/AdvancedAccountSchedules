@@ -1,0 +1,13 @@
+{
+  "TableNo": "9152",
+  "TableName": "My Item",
+  "Name": "Inventory",
+  "SumFieldTable": "Item Ledger Entry",
+  "SumFieldName": "Quantity",
+  "Filters": [
+    {
+      "Field": "Item No.",
+      "Type": "Static"
+    }
+  ]
+}

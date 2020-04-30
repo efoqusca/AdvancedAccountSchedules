@@ -1,0 +1,21 @@
+{
+  "TableNo": "2107",
+  "TableName": "O365 Customer",
+  "Name": "Balance Due (LCY)",
+  "SumFieldTable": "Detailed Cust. Ledg. Entry",
+  "SumFieldName": "Amount (LCY)",
+  "Filters": [
+    {
+      "Field": "Customer No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Posting Date",
+      "Type": "Column Period"
+    },
+    {
+      "Field": "Initial Entry Due Date",
+      "Type": "Column Period"
+    }
+  ]
+}

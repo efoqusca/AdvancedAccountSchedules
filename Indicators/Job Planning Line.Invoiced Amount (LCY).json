@@ -1,0 +1,21 @@
+{
+  "TableNo": "1003",
+  "TableName": "Job Planning Line",
+  "Name": "Invoiced Amount (LCY)",
+  "SumFieldTable": "Job Planning Line Invoice",
+  "SumFieldName": "Invoiced Amount (LCY)",
+  "Filters": [
+    {
+      "Field": "Job No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Job Task No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Job Planning Line No.",
+      "Type": "Static"
+    }
+  ]
+}

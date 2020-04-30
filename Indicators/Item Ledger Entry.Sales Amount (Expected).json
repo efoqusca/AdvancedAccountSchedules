@@ -1,0 +1,13 @@
+{
+  "TableNo": "32",
+  "TableName": "Item Ledger Entry",
+  "Name": "Sales Amount (Expected)",
+  "SumFieldTable": "Value Entry",
+  "SumFieldName": "Sales Amount (Expected)",
+  "Filters": [
+    {
+      "Field": "Item Ledger Entry No.",
+      "Type": "Static"
+    }
+  ]
+}

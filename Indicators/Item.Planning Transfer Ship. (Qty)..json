@@ -1,0 +1,45 @@
+{
+  "TableNo": "27",
+  "TableName": "Item",
+  "Name": "Planning Transfer Ship. (Qty).",
+  "SumFieldTable": "Requisition Line",
+  "SumFieldName": "Quantity (Base)",
+  "Filters": [
+    {
+      "Field": "Worksheet Template Name",
+      "Type": "Static",
+      "Value": "<> ''"
+    },
+    {
+      "Field": "Journal Batch Name",
+      "Type": "Static",
+      "Value": "<> ''"
+    },
+    {
+      "Field": "Replenishment System",
+      "Type": "Static",
+      "Value": "Transfer"
+    },
+    {
+      "Field": "Type",
+      "Type": "Static",
+      "Value": "Item"
+    },
+    {
+      "Field": "No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Variant Code",
+      "Type": "Static"
+    },
+    {
+      "Field": "Transfer-from Code",
+      "Type": "Static"
+    },
+    {
+      "Field": "Transfer Shipment Date",
+      "Type": "Column Period"
+    }
+  ]
+}

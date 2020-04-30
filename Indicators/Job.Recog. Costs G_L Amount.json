@@ -1,0 +1,23 @@
+{
+  "TableNo": "167",
+  "TableName": "Job",
+  "Name": "Recog. Costs G/L Amount",
+  "SumFieldTable": "Job WIP G/L Entry",
+  "SumFieldName": "WIP Entry Amount",
+  "Filters": [
+    {
+      "Field": "Job No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Reversed",
+      "Type": "Static",
+      "Value": "false"
+    },
+    {
+      "Field": "Type",
+      "Type": "Static",
+      "Value": "\"Recognized Costs\""
+    }
+  ]
+}

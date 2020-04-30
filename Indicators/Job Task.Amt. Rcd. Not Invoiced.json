@@ -1,0 +1,22 @@
+{
+  "TableNo": "1001",
+  "TableName": "Job Task",
+  "Name": "Amt. Rcd. Not Invoiced",
+  "SumFieldTable": "Purchase Line",
+  "SumFieldName": "A. Rcd. Not Inv. Ex. VAT (LCY)",
+  "Filters": [
+    {
+      "Field": "Document Type",
+      "Type": "Static",
+      "Value": "Order"
+    },
+    {
+      "Field": "Job No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Job Task No.",
+      "Type": "Static"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TableNo": "36",
+  "TableName": "Sales Header",
+  "Name": "Amount Including VAT",
+  "SumFieldTable": "Sales Line",
+  "SumFieldName": "Amount Including VAT",
+  "Filters": [
+    {
+      "Field": "Document Type",
+      "Type": "Static"
+    },
+    {
+      "Field": "Document No.",
+      "Type": "Static"
+    }
+  ]
+}

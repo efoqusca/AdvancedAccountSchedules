@@ -1,0 +1,18 @@
+{
+  "TableNo": "5092",
+  "TableName": "Opportunity",
+  "Name": "Estimated Value (LCY)",
+  "SumFieldTable": "Opportunity Entry",
+  "SumFieldName": "Estimated Value (LCY)",
+  "Filters": [
+    {
+      "Field": "Opportunity No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Active",
+      "Type": "Static",
+      "Value": "true"
+    }
+  ]
+}

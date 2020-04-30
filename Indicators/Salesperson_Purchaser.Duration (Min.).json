@@ -1,0 +1,27 @@
+{
+  "TableNo": "13",
+  "TableName": "Salesperson/Purchaser",
+  "Name": "Duration (Min.)",
+  "SumFieldTable": "Interaction Log Entry",
+  "SumFieldName": "Duration (Min.)",
+  "Filters": [
+    {
+      "Field": "Salesperson Code",
+      "Type": "Static"
+    },
+    {
+      "Field": "Canceled",
+      "Type": "Static",
+      "Value": "false"
+    },
+    {
+      "Field": "Date",
+      "Type": "Column Period"
+    },
+    {
+      "Field": "Postponed",
+      "Type": "Static",
+      "Value": "false"
+    }
+  ]
+}

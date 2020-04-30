@@ -1,0 +1,27 @@
+{
+  "TableNo": "900",
+  "TableName": "Assembly Header",
+  "Name": "Reserved Qty. (Base)",
+  "SumFieldTable": "Reservation Entry",
+  "SumFieldName": "Quantity (Base)",
+  "Filters": [
+    {
+      "Field": "Source ID",
+      "Type": "Static"
+    },
+    {
+      "Field": "Source Type",
+      "Type": "Static",
+      "Value": "900"
+    },
+    {
+      "Field": "Source Subtype",
+      "Type": "Static"
+    },
+    {
+      "Field": "Reservation Status",
+      "Type": "Static",
+      "Value": "Reservation"
+    }
+  ]
+}

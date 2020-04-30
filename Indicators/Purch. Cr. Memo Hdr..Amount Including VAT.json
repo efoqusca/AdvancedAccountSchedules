@@ -1,0 +1,13 @@
+{
+  "TableNo": "124",
+  "TableName": "Purch. Cr. Memo Hdr.",
+  "Name": "Amount Including VAT",
+  "SumFieldTable": "Purch. Cr. Memo Line",
+  "SumFieldName": "Amount Including VAT",
+  "Filters": [
+    {
+      "Field": "Document No.",
+      "Type": "Static"
+    }
+  ]
+}

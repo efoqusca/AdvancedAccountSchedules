@@ -1,0 +1,13 @@
+{
+  "TableNo": "114",
+  "TableName": "Sales Cr.Memo Header",
+  "Name": "Invoice Discount Amount",
+  "SumFieldTable": "Sales Cr.Memo Line",
+  "SumFieldName": "Inv. Discount Amount",
+  "Filters": [
+    {
+      "Field": "Document No.",
+      "Type": "Static"
+    }
+  ]
+}

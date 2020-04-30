@@ -1,0 +1,21 @@
+{
+  "TableNo": "18",
+  "TableName": "Customer",
+  "Name": "Contract Gain/Loss Amount",
+  "SumFieldTable": "Contract Gain/Loss Entry",
+  "SumFieldName": "Amount",
+  "Filters": [
+    {
+      "Field": "Customer No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Ship-to Code",
+      "Type": "Static"
+    },
+    {
+      "Field": "Change Date",
+      "Type": "Column Period"
+    }
+  ]
+}

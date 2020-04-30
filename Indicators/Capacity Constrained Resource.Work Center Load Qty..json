@@ -1,0 +1,17 @@
+{
+  "TableNo": "99000866",
+  "TableName": "Capacity Constrained Resource",
+  "Name": "Work Center Load Qty.",
+  "SumFieldTable": "Prod. Order Capacity Need",
+  "SumFieldName": "Allocated Time",
+  "Filters": [
+    {
+      "Field": "Work Center No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Date",
+      "Type": "Column Period"
+    }
+  ]
+}

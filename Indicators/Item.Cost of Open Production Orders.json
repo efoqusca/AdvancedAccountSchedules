@@ -1,0 +1,18 @@
+{
+  "TableNo": "27",
+  "TableName": "Item",
+  "Name": "Cost of Open Production Orders",
+  "SumFieldTable": "Prod. Order Line",
+  "SumFieldName": "Cost Amount",
+  "Filters": [
+    {
+      "Field": "Status",
+      "Type": "Static",
+      "Value": "Planned | \"Firm Planned\" | Released"
+    },
+    {
+      "Field": "Item No.",
+      "Type": "Static"
+    }
+  ]
+}

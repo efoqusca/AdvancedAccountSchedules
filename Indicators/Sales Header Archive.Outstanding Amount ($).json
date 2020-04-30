@@ -1,0 +1,17 @@
+{
+  "TableNo": "5107",
+  "TableName": "Sales Header Archive",
+  "Name": "Outstanding Amount ($)",
+  "SumFieldTable": "Sales Line",
+  "SumFieldName": "Outstanding Amount",
+  "Filters": [
+    {
+      "Field": "Document Type",
+      "Type": "Static"
+    },
+    {
+      "Field": "Document No.",
+      "Type": "Static"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "TableNo": "1003",
+  "TableName": "Job Planning Line",
+  "Name": "Qty. Transferred to Invoice",
+  "SumFieldTable": "Job Planning Line Invoice",
+  "SumFieldName": "Quantity Transferred",
+  "Filters": [
+    {
+      "Field": "Job No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Job Task No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Job Planning Line No.",
+      "Type": "Static"
+    }
+  ]
+}

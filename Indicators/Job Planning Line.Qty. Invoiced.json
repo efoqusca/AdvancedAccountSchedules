@@ -1,0 +1,26 @@
+{
+  "TableNo": "1003",
+  "TableName": "Job Planning Line",
+  "Name": "Qty. Invoiced",
+  "SumFieldTable": "Job Planning Line Invoice",
+  "SumFieldName": "Quantity Transferred",
+  "Filters": [
+    {
+      "Field": "Job No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Job Task No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Job Planning Line No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Document Type",
+      "Type": "Static",
+      "Value": "\"Posted Invoice\" | \"Posted Credit Memo\""
+    }
+  ]
+}

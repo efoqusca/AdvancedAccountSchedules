@@ -1,0 +1,18 @@
+{
+  "TableNo": "167",
+  "TableName": "Job",
+  "Name": "Recog. Costs Amount",
+  "SumFieldTable": "Job WIP Entry",
+  "SumFieldName": "WIP Entry Amount",
+  "Filters": [
+    {
+      "Field": "Job No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Type",
+      "Type": "Static",
+      "Value": "\"Recognized Costs\""
+    }
+  ]
+}

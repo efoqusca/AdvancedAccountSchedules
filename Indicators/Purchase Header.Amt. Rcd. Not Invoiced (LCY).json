@@ -1,0 +1,17 @@
+{
+  "TableNo": "38",
+  "TableName": "Purchase Header",
+  "Name": "Amt. Rcd. Not Invoiced (LCY)",
+  "SumFieldTable": "Purchase Line",
+  "SumFieldName": "Amt. Rcd. Not Invoiced (LCY)",
+  "Filters": [
+    {
+      "Field": "Document Type",
+      "Type": "Static"
+    },
+    {
+      "Field": "Document No.",
+      "Type": "Static"
+    }
+  ]
+}

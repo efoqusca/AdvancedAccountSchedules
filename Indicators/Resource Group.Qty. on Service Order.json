@@ -1,0 +1,27 @@
+{
+  "TableNo": "152",
+  "TableName": "Resource Group",
+  "Name": "Qty. on Service Order",
+  "SumFieldTable": "Service Order Allocation",
+  "SumFieldName": "Allocated Hours",
+  "Filters": [
+    {
+      "Field": "Posted",
+      "Type": "Static",
+      "Value": "false"
+    },
+    {
+      "Field": "Resource Group No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Allocation Date",
+      "Type": "Column Period"
+    },
+    {
+      "Field": "Status",
+      "Type": "Static",
+      "Value": "Active"
+    }
+  ]
+}

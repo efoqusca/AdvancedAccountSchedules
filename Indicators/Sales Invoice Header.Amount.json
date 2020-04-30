@@ -1,0 +1,13 @@
+{
+  "TableNo": "112",
+  "TableName": "Sales Invoice Header",
+  "Name": "Amount",
+  "SumFieldTable": "Sales Invoice Line",
+  "SumFieldName": "Amount",
+  "Filters": [
+    {
+      "Field": "Document No.",
+      "Type": "Static"
+    }
+  ]
+}

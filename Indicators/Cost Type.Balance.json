@@ -1,0 +1,21 @@
+{
+  "TableNo": "1103",
+  "TableName": "Cost Type",
+  "Name": "Balance",
+  "SumFieldTable": "Cost Entry",
+  "SumFieldName": "Amount",
+  "Filters": [
+    {
+      "Field": "Cost Type No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Cost Center Code",
+      "Type": "Static"
+    },
+    {
+      "Field": "Cost Object Code",
+      "Type": "Static"
+    }
+  ]
+}

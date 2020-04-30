@@ -1,0 +1,17 @@
+{
+  "TableNo": "36",
+  "TableName": "Sales Header",
+  "Name": "Outstanding Amount ($)",
+  "SumFieldTable": "Sales Line",
+  "SumFieldName": "Outstanding Amount (LCY)",
+  "Filters": [
+    {
+      "Field": "Document Type",
+      "Type": "Static"
+    },
+    {
+      "Field": "Document No.",
+      "Type": "Static"
+    }
+  ]
+}

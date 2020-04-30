@@ -1,0 +1,13 @@
+{
+  "TableNo": "273",
+  "TableName": "Bank Acc. Reconciliation",
+  "Name": "Total Balance on Bank Account",
+  "SumFieldTable": "Bank Account Ledger Entry",
+  "SumFieldName": "Amount",
+  "Filters": [
+    {
+      "Field": "Bank Account No.",
+      "Type": "Static"
+    }
+  ]
+}

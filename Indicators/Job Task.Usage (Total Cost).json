@@ -1,0 +1,26 @@
+{
+  "TableNo": "1001",
+  "TableName": "Job Task",
+  "Name": "Usage (Total Cost)",
+  "SumFieldTable": "Job Ledger Entry",
+  "SumFieldName": "Total Cost (LCY)",
+  "Filters": [
+    {
+      "Field": "Job No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Job Task No.",
+      "Type": "Static"
+    },
+    {
+      "Field": "Entry Type",
+      "Type": "Static",
+      "Value": "Usage"
+    },
+    {
+      "Field": "Posting Date",
+      "Type": "Column Period"
+    }
+  ]
+}
